@@ -1,0 +1,51 @@
+.hero{
+    margin-top: 57px;
+    background: url("./markus-spiske-ZKNsVqbRSPE-unsplash.jpg") no-repeat 0 0;
+    background-size: cover;
+    min-height: 80vh;
+    width: 100%;
+}
+.hero span{
+    color: #009432;
+    
+}
+#category span{
+    color: #009432;
+    font-size: 16px;
+    /* position: ; */
+}
+.hero h1{
+    background-color: rgba(255, 255, 255, 0.7);
+}
+#hero-col{
+    margin-top: 150px;
+}
+#category img{
+    height: 150px;
+    width: 150px;
+}
+#card img{
+    height: 300px;
+    width: 250px;
+}
+
+#card .para{
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#card .pic{
+    position: relative;
+}
+#last{
+    background-color: rgb(244, 244, 244);
+    height: 50vh;
+}
+#last-col{
+    height: 200px;
+    background-color: white;
+}
+#category #c1:hover{
+    background-color: rgb(218, 210, 210);
+}
