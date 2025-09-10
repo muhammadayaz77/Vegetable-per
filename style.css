@@ -1,9 +1,9 @@
 .hero{
     margin-top: 57px;
-    background: url("./markus-spiske-ZKNsVqbRSPE-unsplash.jpg") no-repeat 0 0;
+    background: url("./markus-spiske-ZKNsVqbRSPE-unsplash.jpg") no-repeat center center;
     background-size: cover;
     min-height: 80vh;
-    width: 100%;
+    /* width: 100%; */
 }
 .hero span{
     color: #009432;
